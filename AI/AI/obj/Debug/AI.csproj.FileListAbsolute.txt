@@ -1,0 +1,10 @@
+C:\Users\Laptop-Adry\Desktop\AI\AI\bin\Debug\AI.exe.config
+C:\Users\Laptop-Adry\Desktop\AI\AI\bin\Debug\AI.exe
+C:\Users\Laptop-Adry\Desktop\AI\AI\bin\Debug\AI.pdb
+C:\Users\Laptop-Adry\Desktop\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+C:\Users\Laptop-Adry\Desktop\AI\AI\obj\Debug\AI.Form1.resources
+C:\Users\Laptop-Adry\Desktop\AI\AI\obj\Debug\AI.Properties.Resources.resources
+C:\Users\Laptop-Adry\Desktop\AI\AI\obj\Debug\AI.csproj.GenerateResource.Cache
+C:\Users\Laptop-Adry\Desktop\AI\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\Laptop-Adry\Desktop\AI\AI\obj\Debug\AI.exe
+C:\Users\Laptop-Adry\Desktop\AI\AI\obj\Debug\AI.pdb
